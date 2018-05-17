@@ -10,4 +10,6 @@ Post title:
 
 Post URL:
 
-Short description:
+Short description of post:
+
+Anything else you'd like us to know?:
