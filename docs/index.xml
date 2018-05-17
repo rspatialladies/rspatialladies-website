@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Universal</title>
+    <title>R-Spatial Ladies</title>
     <link>/</link>
-    <description>Recent content on Universal</description>
+    <description>Recent content on R-Spatial Ladies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
@@ -106,16 +106,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
-    </item>
-    
-    <item>
       <title>FAQ</title>
       <link>/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -123,6 +113,15 @@ Please feel free to contact us, our customer service center is working for you 2
       <guid>/faq/</guid>
       <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+    <item>
+      <title>Join Us</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>If you&amp;rsquo;re interested in learning more about the group, please reach out. We&amp;rsquo;d love to meet you! We are active on social media and welcome collaborations and fresh ideas! Please contact us through GitHub or join our Slack channel.</description>
     </item>
     
   </channel>

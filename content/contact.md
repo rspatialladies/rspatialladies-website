@@ -1,10 +1,13 @@
 +++
-title = "Contact"
+title = "Join Us"
 id = "contact"
 +++
 
-# We are here to help you
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+### If you're interested in learning more about the group, please reach out. We'd love to meet you!
+
+
+We are active on social media and welcome collaborations and fresh ideas! Please contact us through [GitHub](https://github.com/rspatialladies) or join our [Slack](https://join.slack.com/t/r-spatialladies/shared_invite/enQtMzU1MTIwMjU2NzUyLTBkZjU1NDFiZGU3YzNmN2Y0Y2NiYTM2Njk2ZjI5M2IyMTNiNjI3ZDQ4MzEyMjQxNjM2YWU2ZGVkZWRiYmU1ZDM) channel. 
+
+
